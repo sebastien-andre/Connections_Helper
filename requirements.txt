@@ -1,0 +1,8 @@
+PyQt6
+pyperclip
+rapidfuzz
+pyinstaller
+pyinstaller-hooks-contrib
+macholib
+altgraph
+packaging
